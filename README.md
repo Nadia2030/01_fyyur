@@ -43,3 +43,5 @@ Pay special attention to what data the frontend is expecting from each API respo
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
 # 01_fyyur
+# A project for the Udacity Full Stack Developer Nanodegree.
+# 02_trivia_api
